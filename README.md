@@ -32,7 +32,13 @@ The script will open Google Chrome, scroll through the specified TikTok account'
 Ensure you have the correct version of ChromeDriver that matches your version of Google Chrome.
 The videos will be saved in .mp4 format with their original titles.
 
+## Donations
 
+If you find this project useful and would like to support its development, you can make a donation via PayPal:
+
+[Donate via PayPal](https://www.paypal.me/JFree03 )
+
+Thank you for your support!
 
 # Descargador de Videos de TikTok
 
@@ -64,3 +70,11 @@ El script abrirá Google Chrome, desplazará hacia abajo el perfil del usuario d
 ## Notas
 Asegúrate de tener la versión correcta de ChromeDriver que coincida con tu versión de Google Chrome.
 Los videos se guardarán en formato .mp4 con sus títulos originales.
+
+## Donaciones
+
+Si encuentras útil este proyecto y te gustaría apoyar su desarrollo, puedes hacer una donación a través de PayPal:
+
+[Donar a través de PayPal](https://www.paypal.me/JFree03 )
+
+¡Gracias por tu apoyo!

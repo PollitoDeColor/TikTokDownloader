@@ -1,7 +1,13 @@
+# TikTok Video Downloader
+
+This Python script automates the process of downloading videos from a TikTok user's profile using Selenium and yt-dlp.
+
+## Requirements
+
 1. Python 3.x
 2. Google Chrome
 3. ChromeDriver
-4. Python libraries: selenium and yt-dlp
+4. Python libraries: `selenium` and `yt-dlp`
 
 ## Setup Instructions
 
@@ -10,11 +16,10 @@
 3. Download ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and add it to your system PATH.
 4. Install the required Python libraries by running:
 
-   
 bash
    pip install selenium yt-dlp
-
-How to Use
+   
+## How to Use
 Clone this repository or download the script.
 
 Open the script and replace the TikTok URL with the username of the TikTok account you want to download videos from:

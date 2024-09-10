@@ -19,13 +19,11 @@ Clone this repository or download the script.
 
 Open the script and replace the TikTok URL with the username of the TikTok account you want to download videos from:
 
-python
-
 tiktok_url = "https://www.tiktok.com/@"  # Replace with the TikTok username
+
 Run the script:
 
-bash
-   python tiktok_downloader.py
+python tiktok_downloader.py
 
 The script will open Google Chrome, scroll through the specified TikTok account's profile, and gather video links. These videos will be downloaded to a folder called videos in the same directory as the script.
 
